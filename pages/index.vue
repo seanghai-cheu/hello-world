@@ -1,6 +1,6 @@
 <template>
   <div class="here">
-      Hello, I am Seanghai. I am doing tag deployment with jenkins.
+      Hello, I am Seanghai. I am learning jenkins.
   </div>
 </template>
 
